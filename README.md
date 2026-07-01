@@ -1,7 +1,5 @@
 # Skills
 
-[![skills.sh](https://skills.sh/b/pasevin/skills)](https://skills.sh/pasevin/skills)
-
 My agent skills — installable in Warp, Cursor, Claude Code, Codex, and 60+ other agents via [skills.sh](https://skills.sh).
 
 ## Quickstart
@@ -15,7 +13,7 @@ npx skills add pasevin/skills
 | Skill | Category | Description |
 |---|---|---|
 | [commit](./skills/engineering/commit) | engineering | Conventional Commits with GPG signing, scope selection, and pre-commit validation |
-| [cluely-cli](./skills/tools/cluely-cli) | tools | Query and manage Cluely meeting sessions, transcripts, and tags from the terminal |
+| [cluely](./skills/tools/cluely) | tools | Query and manage Cluely meeting sessions, transcripts, and tags from the terminal |
 
 ## License
 

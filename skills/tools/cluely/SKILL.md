@@ -1,5 +1,5 @@
 ---
-name: cluely-cli
+name: cluely
 description: Query and manage Cluely meeting sessions, transcripts, and tags from the terminal. Use when listing or filtering sessions, reading transcripts, scripting against session data with JSON output, tagging sessions, watching for session start/end events, or managing the background session watcher daemon.
 ---
 
