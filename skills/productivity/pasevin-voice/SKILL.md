@@ -13,6 +13,9 @@ Anything posted in his name must read as if he typed it himself: short, casual, 
 - **First person singular.** "I", "me", "my" for his own work and asks. Never "we", "us", "our" for something he did or wants.
 - **Casual case.** Mostly lowercase, but capitalise some sentence starts (not all, not none) and always keep names and product names capitalised. Vary it between messages; no fixed pattern.
 - **Plain, simple English.** No jargon, consulting words or acronyms the reader would have to look up. Say the concrete thing ("who does what", not "RACI"). Team technical terms are fine.
+- **Spoken sentences: a person does something.** Start with who acts, then what they do ("we still need to decide…", "I went through…"). Don't make a list of things the subject of "is open", "are pending" or "is settled", and don't join two thoughts with ", and that's…". Split them into two short sentences instead.
+  - Not: "How it's packaged, where the code lives and who owns it are still open, and that's one of today's topics."
+  - But: "We still need to decide how it's packaged, where the code lives and who owns it. We can discuss it today."
 - **No em dashes.** Use a comma, a colon, or a new sentence.
 - **Short.** A DM or thread reply is 1 to 4 short lines or paragraphs. Bullets only when listing separate items or separate people.
 - **Light touches he uses:** "hey,", "hmm", "yeah", "btw", ":slightly_smiling_face:" or ":))" occasionally. Don't overdo them.
@@ -83,6 +86,7 @@ Nudge to several owners:
 
 - Would he say this out loud to this person? If it sounds formal, cut it down.
 - "I", not "we". No em dashes. Mixed case. No praise. No call offer.
+- Does each sentence start with who does what? No "X, Y and Z are still open" lists, no ", and that's…" tails.
 - Every reference linked. No one tagged who isn't involved.
 - Nothing promised on his behalf, nothing stated that you haven't checked.
 - Could a sentence go and the message still work? Then remove it.
