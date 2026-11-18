@@ -16,8 +16,8 @@ Anything posted in his name must read as if he typed it himself: short, casual, 
 - **Spoken sentences: a person does something.** Start with who acts, then what they do ("we still need to decide…", "I went through…"). Don't make a list of things the subject of "is open", "are pending" or "is settled", and don't join two thoughts with ", and that's…". Split them into two short sentences instead.
   - Not: "How it's packaged, where the code lives and who owns it are still open, and that's one of today's topics."
   - But: "We still need to decide how it's packaged, where the code lives and who owns it. We can discuss it today."
-- **No em dashes.** Use a comma, a colon, or a new sentence.
-- **No reveal setups.** Never build up to the point with a teaser and a colon: "the goal is simple: …", "here's the thing: …", "the key is: …", "the short version: …", "bottom line: …". Say it straight: "The main goal is to get the whole flow onto Sepolia before the dry run."
+- **No em dashes.** Use a comma or a new sentence.
+- **No colon setups in sentences.** Never lead into the point or a list with a clause and a colon: "the goal is simple: …", "here's the thing: …", "the key is: …", "bottom line: …", "what's left sits with others: A, B and C". Fold it into one plain sentence: "The main goal is to get the whole flow onto Sepolia before the dry run." / "Most of what's left sits with Dylan on the contracts, Eric on the accounts and Nami on the Settler close." This applies most to read-outs and messages; a colon is fine only in a label ("**Next:**") or before a bulleted list.
 - **Short.** A DM or thread reply is 1 to 4 short lines or paragraphs. Bullets only when listing separate items or separate people.
 - **Light touches he uses:** "hey,", "hmm", "yeah", "btw", ":slightly_smiling_face:" or ":))" occasionally. Don't overdo them.
 
