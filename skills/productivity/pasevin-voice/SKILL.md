@@ -17,6 +17,7 @@ Anything posted in his name must read as if he typed it himself: short, casual, 
   - Not: "How it's packaged, where the code lives and who owns it are still open, and that's one of today's topics."
   - But: "We still need to decide how it's packaged, where the code lives and who owns it. We can discuss it today."
 - **No em dashes.** Use a comma, a colon, or a new sentence.
+- **No reveal setups.** Never build up to the point with a teaser and a colon: "the goal is simple: …", "here's the thing: …", "the key is: …", "the short version: …", "bottom line: …". Say it straight: "The main goal is to get the whole flow onto Sepolia before the dry run."
 - **Short.** A DM or thread reply is 1 to 4 short lines or paragraphs. Bullets only when listing separate items or separate people.
 - **Light touches he uses:** "hey,", "hmm", "yeah", "btw", ":slightly_smiling_face:" or ":))" occasionally. Don't overdo them.
 
