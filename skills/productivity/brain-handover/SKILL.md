@@ -35,7 +35,7 @@ Run when Aleksandr asks. Writing the handover costs quota, so it should be asked
    - *Rules:* the approval rules, the voice, the project conventions (issue fields, branches, tooling), the people and their pronouns, the known tool traps. One line each, with the path to the full memory directory (read-only for the Sub).
    - *Routines:* `maestri routine list` output with each routine's purpose and current target.
    - *Handback log:* a template with headings only (see Handback), dated with the handover date.
-3. **Spawn.** `maestri recruit "<Project> Substitute Brain" --preset "<non-Claude preset>" --role "Substitute Project Brain"` (default Cursor: `--preset "Cursor" --command "agent --trust --force"`). Ask Aleksandr to switch Maestro on for that terminal if the preset lacks it. Then `maestri connect` the handover fichário, the project fichário and every loose project note to it, plus each orchestrator (agent ropes cross floors and workspaces).
+3. **Spawn it in the Brain's band**, next to the Brain in the same window: `maestri recruit "<Project> Substitute Brain" --preset "<non-Claude preset>" --role "Substitute Project Brain" --band "<Brain's band>"` (default Cursor: `--preset "Cursor" --command "agent --trust --force"`). As a band member it reaches every note and agent the band is connected to. If the Brain is in no band, create one first (`maestri band create`). Ask Aleksandr to switch Maestro on for that terminal if the preset lacks it. Then `maestri connect` whatever `maestri list` shows it still can't reach, typically the orchestrators (agent ropes cross floors and workspaces).
 4. **Onboard.** `maestri ask` the Sub to read Start here and follow it, then answer with its understanding: the top 3, the pending gos with scope, who is waiting on what, and what it will do first. Correct anything wrong until its summary matches the Snapshot.
 5. **Retarget.** `maestri routine edit "<name>" --terminal "<Sub terminal>"` for every routine on the Brain. Tell each orchestrator: "from now on report to `<Sub terminal> @ <workspace>`, same rules."
 6. **Hand the wheel over.** Tell Aleksandr it's ready and where to chat with it. From then on the Brain does nothing on the canvas.
@@ -43,8 +43,8 @@ Run when Aleksandr asks. Writing the handover costs quota, so it should be asked
 ### Manual path (for Aleksandr, when the Brain is already out)
 
 Written into Start here, with the project's real names filled in:
-1. Recruit a terminal named `<Project> Substitute Brain` with role "Substitute Project Brain" on a non-Claude CLI, and switch Maestro on.
-2. Rope it to the handover fichário, the project fichário, the loose project notes and the orchestrators.
+1. Recruit a terminal named `<Project> Substitute Brain` with role "Substitute Project Brain" on a non-Claude CLI, as a member of the Brain's band (next to the Brain), and switch Maestro on.
+2. Check it reaches the handover fichário, the project fichário, the loose project notes and the orchestrators; rope whatever is missing.
 3. Paste: "You are the Substitute Project Brain for <Project>. Read `Handover 1 — Start here` and follow it. Then tell me your understanding." Then check its summary against the Snapshot.
 4. Retarget the routines to it in the canvas (or ask it to, once it's on).
 
